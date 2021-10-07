@@ -1,0 +1,25 @@
+{
+  "appointments": [
+    {
+      "appointmentId": "12",
+      "sessionId": "2_MX40NzM0OTcwMX5-MTYzMzUzNjU5MDA2OX5JclpMKzNlKzR5VU02Mm5Ebm5vbDI5SHB-UH4",
+      "profileId": "321",
+      "appointmentTitle": "Stéphane Bayano, 06/10/2021 18:09",
+      "id": "Bbds5yq"
+    },
+    {
+      "appointmentId": "13",
+      "sessionId": "1_MX40NzM0OTcwMX5-MTYzMzYxMDU3MDMxMH5NcEl0aUhKM0lxdGpYbnpha01odmplTTl-UH4",
+      "profileId": "321",
+      "appointmentTitle": "Stéphane Bayano, 07/10/2021 14:42",
+      "id": "riN0X_9"
+    },
+    {
+      "appointmentId": "14",
+      "sessionId": "2_MX40NzM0OTcwMX5-MTYzMzYyMjMwMzk4NX4rY0xTOGRQd01ZMnYwNE1DZTUzVm5ONUx-UH4",
+      "profileId": "321",
+      "appointmentTitle": "Stéphane Bayano, 07/10/2021 17:58",
+      "id": "k4fQ-MP"
+    }
+  ]
+}
